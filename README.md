@@ -1,2 +1,2 @@
 # Git-demo
-this is my first repository <br> lear github
+this is my first repository <br> learn github
